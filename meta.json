@@ -1,0 +1,23 @@
+{
+  "repo": "bfd3-virtual-drums-studio",
+  "product": "BFD3 Virtual Drums Studio",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "bfd3-virtual-drums-studio",
+    "bfd3-virtual",
+    "bfd3-virtual-studio",
+    "how-to-install-bfd3-virtual",
+    "how-to-setup-bfd3-virtual",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "bfd3-drums"
+  ],
+  "site": "unaflore.co",
+  "product_title": "BFD3 Virtual Drums Studio"
+}
